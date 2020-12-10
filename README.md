@@ -127,8 +127,9 @@ You first need to register on the server to be able to track your experiment pro
 
 ## Upload the zip file
 Upload the data under the "Get Data" menu.
-
+<img width="1434" alt="Screen Shot 2020-12-10 at 8 53 26 AM" src="https://user-images.githubusercontent.com/8551117/101737849-b71c8500-3ac5-11eb-9eb7-8c6715534e8a.png">
 ## Run the experiment
 Run the experiment under the Geno2Pheno.
+<img width="1434" alt="Screen Shot 2020-12-10 at 8 53 46 AM" src="https://user-images.githubusercontent.com/8551117/101737869-bc79cf80-3ac5-11eb-8941-fc2191286782.png">
 
 
